@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.ipynb_checkpoints/
+results/
+outputs/
+AutogluonModels/
+*.csv
+!example_data/*.csv
+.env
+.venv/
+.DS_Store
+Thumbs.db
